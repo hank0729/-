@@ -9,6 +9,11 @@
 ## 專案流程圖
 
 ```mermaid
+%%{init: {
+  "flowchart": {
+    "curve": "step"
+  }
+}}%%
 flowchart TD
     START([開始])
 
